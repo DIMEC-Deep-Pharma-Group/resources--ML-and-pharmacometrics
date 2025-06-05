@@ -90,6 +90,7 @@ Academic resources for Machine Learning &amp; pharmacometrics (PMX), pharmacokin
 ### Scientific ML and Pharmacokinetics
 | Year | Author | Title | Journal | Doi |
 |:----:|:----:|:------:|:-------:|:-------:|
+| 2025 | ... and George Karniadakis | CMINNs: Compartment model informed neural networks — Unlocking drug dynamics | Computers in Biology and Medicine | [doi](https://doi.org/10.1016/j.compbiomed.2024.109392) |
 | 2024 | Janssen et al.  | On inductive biases for the robust and interpretable prediction of drug concentrations using deep compartment models | J Pharmacokinet Pharmacodyn | 10.1007/s10928-024-09906-x. |
 | 2022 | Janssen et al.  | Deep compartment models: A deep learning approach for the reliable prediction of time-series data in pharmacokinetic modeling | CPT Pharmacometrics Syst Pharmacol | 10.1002/psp4.12808. |
 
@@ -107,6 +108,7 @@ Academic resources for Machine Learning &amp; pharmacometrics (PMX), pharmacokin
 ### NODE and Pharmacokinetics
 | Year | Author | Title | Journal | Doi |
 |:----:|:----:|:------:|:-------:|:-------:|
+| 2024 | I. B. Losada, N. Terranova  | Bridging pharmacology and neural networks: A deep dive into neural ordinary differential equations | CPT Pharmacometrics Syst Pharmacol | 10.1002/psp4.13149 |
 | 2024 | Bräm et al.  | Low-dimensional neural ODEs and their application in pharmacokinetics | J Pharmacokinet Pharmacodyn | 10.1007/s10928-023-09886-4. |
 | 2021 | Qian et al.  | Integrating Expert ODEs into Neural ODEs: Pharmacology and Disease Progression | [Online](http://arxiv.org/abs/2106.02875) | |
 | 2021 | Lu et al.  | Neural-ODE for pharmacokinetics modeling and its advantage to alternative machine learning models in predicting new dosing regimens | iScience | doi: 10.1016/j.isci.2021.102804. |
